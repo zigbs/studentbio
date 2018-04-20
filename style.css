@@ -1,4 +1,45 @@
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
-li {
+}
+
+body {
+    background-color: white;
+}
+
+.main-body {
+    padding-right: 20%;
+    padding-left: 20%;
     
+}
+.left-body {
+    text-align: left;
+}
+.container-1 {
+    background-color: lightgrey;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 300px;
+}
+
+.contact-div {
+    text-align: right;
+    margin-left: 400px;
+}
+
+img {
+    float: left;
+}
+p {
+    float: left;
+    margin-right: 100px;
+    text-align: left;
+}
+
+h2 {
+    float: right;
 }
